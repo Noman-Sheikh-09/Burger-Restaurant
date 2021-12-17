@@ -163,3 +163,49 @@ color: white;
     margin-top: 40px;
     font-size: 30px;
 }
+.img-11{
+width: 70px;
+height: auto;
+margin-top: 200px;
+margin-left: 0px;
+}
+.img-12{
+width: 150px;
+height: auto;
+margin-top: 50px;
+margin-left: 50px;
+}
+.img-13{
+width: 100px;
+height: auto;
+margin-top: 100px;
+margin-left: 230px;
+}
+.img-14{
+    width: 400px;
+    height: auto;
+    border: 2px solid white;
+    border-radius: 300px;
+
+}
+.h-6{
+ font-size: 100px;
+ color:tomato;
+margin-left: 50px;
+margin-top: 0px;
+}
+.p-8{
+color: tomato;
+margin-left: 50px;
+margin-top: 50px;
+width: 300px;
+}
+.b-3{
+    color: white;
+    background-color: tomato;
+    border: 1px solid white;
+    border-radius: 50px;
+   margin-left: 50px;
+   margin-top: 30px;
+   font-size: 30px;
+}
