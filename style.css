@@ -300,3 +300,34 @@ color: tomato;
 margin-top: 100px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
+/* .box-3{
+
+} */
+.h-11{
+color: tomato;
+}
+/* .img-card-1{
+
+} */
+.card-1{
+    
+}
+.p-14{
+color: tomato;
+width: 200px;
+}
+.p-15{
+    color: tomato;
+    font-weight: bold;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.b-4{
+    background-color: tomato;
+    font-size: 25px;
+    border: 1px tomato solid;
+    border-radius: 30px;
+    color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+}
