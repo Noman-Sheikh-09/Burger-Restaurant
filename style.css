@@ -309,9 +309,15 @@ color: tomato;
 /* .img-card-1{
 
 } */
-.card-1{
-    
-}
+/* .card-1{
+    /*shadow*/
+/* } */ 
+/* .circle-1{
+    border: 5px white solid;
+    border-radius: 200px;
+    margin-left: 0px;
+    padding: 0px 20px 100px 20px;
+} */
 .p-14{
 color: tomato;
 width: 200px;
@@ -331,3 +337,53 @@ width: 200px;
     padding-right: 15px;
     padding-left: 15px;
 }
+.h-12{
+    color: tomato;
+}
+.b-5{
+    background-color: tomato;
+    font-size: 25px;
+    border: 1px tomato solid;
+    border-radius: 30px;
+    color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.p-16{
+    color: tomato;
+    font-weight: bold;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.p-17{
+    color: tomato;
+width: 200px;
+}
+.img-19{
+margin-left: 0px;
+width: 80px;
+height: auto;
+margin-top: 350px;
+}
+.img-20{
+margin-right: 0px;
+width: 100px;
+height: auto;
+}
+.box-3{
+    background: azure;
+}
+.p-18{
+    width: 1000px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 200px;
+    margin-left: 0px;
+}
+
+/* .bg-img{
+    width: 1350px;
+    height: 700px;
+    background-image: url(./Assets/degfgvf.jpg);
+    background-image: url(./Assets/red.jpg);
+} */
